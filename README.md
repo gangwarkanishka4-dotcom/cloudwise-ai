@@ -5,6 +5,9 @@ Works 100% offline with realistic mock data and a smart AI assistant.
 
 ---
 
+## live demo link
+https://cloudwise-ai-xi.vercel.app/
+
 ## ▶ HOW TO RUN (3 steps)
 
 ### Step 1 — Extract the zip
